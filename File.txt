@@ -1,2 +1,4 @@
 This is test1 made by user1 to branch2
 This is test2 made by user1 to branch2
+This is test1 made by user2 to branch2
+
